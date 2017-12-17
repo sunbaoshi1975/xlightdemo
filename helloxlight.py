@@ -1,5 +1,5 @@
 # run me, and then execute
-#      nrrok.exe http 5000
+#      ngrok.exe http 5000
 # in command terminal
 # Or, deploy me on aws lambda
 #     zappa update
