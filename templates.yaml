@@ -1,0 +1,11 @@
+hello: Welcome to X Light demo. You can ask me to turn the light on or off, change colors or brightness level, and set special effect.
+help: You can speak on, off, name of color, a brightnessm level between 0 and 100, or special effect.
+device_offline: Sorry. No X Light found. Plesase check settings and network connection.
+help_specialeffect: For special effect, you can try go breathing or go dancing. Use the word go nothing to stop special effect.
+state_changed:  The light is now {{ state }}.
+x_state_changed:  Christmas light is now {{ state }}.
+color_changed:  The color changed to {{ color }}.
+brightness_changed:  The brightness level is now {{ brightness }}.
+dimmer_changed:  The light goes {{ dimmer }}.
+effect_changed:  The special effect is now {{ effect }}.
+error_brightness: The brightness level is invalid. Please choose a value between 0 and 100.

@@ -1,0 +1,11 @@
+XlightStateIntent turn {state}
+XlightColorIntent change color to {color}
+XlightColorIntent change to {color}
+XlightColorIntent turn color {color}
+XlightColorIntent turn {color}
+XlightBrightnessIntent set brightness level to {brightness}
+XlightDimmerIntent get {dimmer}
+XlightDimmerIntent give me {dimmer}
+XlightSpecialEffectIntent go {effect}
+XlightChristmasIntent Christmas light {state}
+XlightChristmasIntent Christmas {state}

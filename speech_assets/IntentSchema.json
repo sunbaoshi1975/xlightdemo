@@ -1,0 +1,61 @@
+{
+  "intents": [
+    {
+      "intent": "XlightStateIntent",
+      "slots": [
+        {
+          "name": "state",
+          "type": "LIST_OF_STATES"
+        }
+      ]
+    },
+    {
+      "intent": "XlightColorIntent",
+      "slots": [
+        {
+          "name": "color",
+          "type": "LIST_OF_COLORS"
+        }
+      ]
+    },
+    {
+      "intent": "XlightBrightnessIntent",
+      "slots": [
+        {
+          "name": "brightness",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "XlightDimmerIntent",
+      "slots": [
+        {
+          "name": "dimmer",
+          "type": "LIST_OF_DIMMER"
+        }
+      ]
+    },
+    {
+      "intent": "XlightSpecialEffectIntent",
+      "slots": [
+        {
+          "name": "effect",
+          "type": "LIST_OF_EFFECTS"
+        }
+      ]
+    },
+    {
+      "intent": "XlightChristmasIntent",
+      "slots": [
+        {
+          "name": "state",
+          "type": "LIST_OF_STATES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

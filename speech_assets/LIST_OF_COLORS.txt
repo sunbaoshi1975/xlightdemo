@@ -1,0 +1,15 @@
+red
+green
+blue
+white
+gold
+silver
+pink
+orange
+purple
+azure
+cyan
+magenta
+turquoise
+brown
+chocolate
